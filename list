@@ -1,0 +1,22 @@
+[
+  {
+    "catID": 1,
+    "name": "Mua xuan",
+    "image": "muaxuan.png"
+  },
+  {
+    "catID": 2,
+    "name": "Mua ha",
+    "image": "muaha.png"
+  },
+  {
+    "catID": 3,
+    "name": "Mua thu",
+    "image": "muathu.png"
+  },
+  {
+    "catID": 4,
+    "name": "Mua dong",
+    "image": "muadong.png"
+  }
+]
